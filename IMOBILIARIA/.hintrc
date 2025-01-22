@@ -1,0 +1,15 @@
+{
+  "extends": [
+    "development"
+  ],
+  "hints": {
+    "axe/text-alternatives": "off",
+    "axe/structure": [
+      "default",
+      {
+        "definition-list": "off",
+        "listitem": "off"
+      }
+    ]
+  }
+}
