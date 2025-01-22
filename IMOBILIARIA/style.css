@@ -121,3 +121,12 @@ dl{
     padding: 2px 5px;
     border-radius: 5px;
 }
+.descricao{
+    font-family: Verdana, sans-serif;
+    color: #555;
+    font-size: 1.8em;
+    line-height: 1.8;
+    margin: 20px 0;
+    padding: 0 20px;
+    text-align: justify;
+}
